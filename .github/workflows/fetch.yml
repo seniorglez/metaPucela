@@ -18,15 +18,10 @@ jobs:
           persist-credentials: false
           fetch-depth: 0
       - name: Captura el estado de las salas
-        env:
-          TWITTER_CONSUMER_API_KEY: ${{ secrets.TWITTER_CONSUMER_API_KEY }}
-          TWITTER_CONSUMER_API_SECRET: ${{ secrets.TWITTER_CONSUMER_API_SECRET }}
-          TWITTER_ACCESS_TOKEN: ${{ secrets.TWITTER_ACCESS_TOKEN }}
-          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
         run: |-
           CREDENTIALS=$(curl --silent \
-            'https://api.spatial.io/api/v1/rooms/noauth/6246b6964f7a930001a7636a' -X POST \
-            --data-raw '{"roomShareID":"4069560728893578203","noAuthUserID":""}' | jq --raw-output '.tempToken')
+            'https://api.spatial.io/api/v1/rooms/noauth/639bc4d83b867100010cf851' -X POST \
+            --data-raw '{"roomShareID":"6871682445212284257","noAuthUserID":""}' | jq --raw-output '.tempToken')
 
           git config user.name "El portero del metaverso"
           git config user.email "actions@users.noreply.github.com"
@@ -34,10 +29,8 @@ jobs:
           DATE=$(date -Iseconds)
 
           curl --silent --header "Authorization: Bearer $CREDENTIALS" \
-            "https://api.spatial.io/api/v1/rooms/?queryType=batch&roomIDs=6246b6964f7a930001a7636a&roomIDs=6246b7064f7a930001a76375" \
+            "https://api.spatial.io/api/v1/rooms/?queryType=batch&roomIDs=639bc4d83b867100010cf851" \
           | jq > "responses/$DATE.json"
-
-          node check.mjs "latest.json" "responses/$DATE.json"
 
           ln -sf "responses/$DATE.json" latest.json
 
