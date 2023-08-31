@@ -32,9 +32,8 @@ jobs:
             "https://api.spatial.io/api/v1/rooms/?queryType=batch&roomIDs=639bc4d83b867100010cf851" \
           | jq >> "responses/$DATE.json"
 
-          #ln -sf "responses/$DATE.json" latest.json
-
-          git add responses #latest.json
+          git add responses
+          
           git commit --message="Toma de datos del $DATE"
       - name: Hace el «push»
         uses: ad-m/github-push-action@master
