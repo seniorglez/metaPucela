@@ -1,0 +1,116 @@
+{
+  "rooms": [
+    {
+      "id": "639bc4d83b867100010cf851",
+      "ownerID": "639af2c9c6355b1cd52fe516",
+      "owner": {
+        "userID": "639af2c9c6355b1cd52fe516",
+        "displayName": "Apolostudios"
+      },
+      "name": "Plaza Mayor Valladolid (Spain)",
+      "slug": "Plaza-Mayor-Valladolid-Spain",
+      "description": "",
+      "tags": [
+        "turism",
+        "spain",
+        "valladolid",
+        "trendy",
+        "party"
+      ],
+      "orgOwner": {
+        "id": "",
+        "name": "",
+        "subscription": {
+          "subscriptionType": "",
+          "subscriptionSource": "",
+          "isActive": false
+        }
+      },
+      "organizations": null,
+      "timeLastJoined": "0001-01-01T00:00:00Z",
+      "thumbnails": [],
+      "activeParticipants": [
+        {
+          "id": "64412cea22d575b5de6465fd",
+          "displayName": "Art New York",
+          "profilePicURL": "https://renderapi.s3.amazonaws.com/ICCnOxept.png",
+          "avatarData": {
+            "avatarUserID": "0236a315-755b-4d4c-a1b6-d367ac8d0890",
+            "avatarID": "87436052-febe-4680-a32d-55942bee6396",
+            "avatarBody": "https://dd2cgqlmnwvp5.cloudfront.net/avatar_generic_bodies/rpm_female_tshirt/model.glb",
+            "filename": "",
+            "skinColorOverride": "",
+            "shirtColorOverride": "000000",
+            "readyPlayerMeID": "",
+            "readyPlayerMeAvatarID": "",
+            "readyPlayerMeThumbnails": {
+              "upperBody": "https://renderapi.s3.amazonaws.com/ICCnOxept.png",
+              "lowerBody": ""
+            },
+            "readyPlayerMeUrl": "https://models.readyplayer.me/64ee695742c59d7dceb22fc0.glb?updatedAt=1693516457187",
+            "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+            "readyPlayerMeUrlCrunched": "",
+            "readyPlayerMeUrlCrunchedBrotli": "",
+            "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+            "activeAvatarStyle": "READY_PLAYER_ME"
+          },
+          "appearanceCustomization": {
+            "profileColor": "purple"
+          },
+          "clientPlatforms": [
+            "Android"
+          ],
+          "permissions": []
+        }
+      ],
+      "polymerVersion": 19,
+      "roomThumbnails": {
+        "customGetUrl": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/customThumbnail/r/ed2bed2701c6b843e8fbf8a35b8d1ddb7bac1fb798cfa4b01ad0936586e87a75/1693522164",
+        "transientGetUrl": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/transientStateThumbnail/r/d073b5922143c4aa46833d18fcf9e9d8e5e8167a874e48b1bab6e21d1f7b7b5d/1693522164",
+        "persistentGetUrl": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/persistentStateThumbnail/r/06697825c27c4cfda2d9cc3929612f1a5954c8fe7a1dc96c6a29346dd1dd34de/1693522164",
+        "cubemapGetUrl": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/cubemap/r/83e00f055d76cead7daeae16e93f857c70bad9ea9fe4017b83793883b8944965/1693522164",
+        "expiresAt": 1693536632
+      },
+      "thumbnail": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/customThumbnail/r/ed2bed2701c6b843e8fbf8a35b8d1ddb7bac1fb798cfa4b01ad0936586e87a75/1693522164",
+      "cubeMap": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/cubemap/r/83e00f055d76cead7daeae16e93f857c70bad9ea9fe4017b83793883b8944965/1693522164",
+      "starred": true,
+      "sandbox": false,
+      "shareID": "6871682445212284257",
+      "code": "",
+      "shareSetting": "ORG",
+      "publicLink": true,
+      "roomAdmins": [
+        "62cfe0d21111938e99737620",
+        "62cffe2bb921b8527a6a4007"
+      ],
+      "restrictedPermissions": [
+        "RESTRICT_OTHERS_VIEW_ONLY"
+      ],
+      "directlyInvitedGuests": {},
+      "lobbyType": "",
+      "published": true,
+      "defaultRoomContent": null,
+      "accessible": true,
+      "createdAt": "2022-12-16T01:07:36.975Z",
+      "isNFTSpace": false,
+      "isCreatorToolkitSpace": false,
+      "packageSKU": "",
+      "worldID": "",
+      "directlyInvitedGuestsArray": [],
+      "active": true,
+      "users": [
+        "64412cea22d575b5de6465fd"
+      ],
+      "activeParticipantCount": 1,
+      "likes": 199,
+      "views": 3519,
+      "isInstanceable": false,
+      "likedSpace": false,
+      "promoted": false,
+      "lastPromoted": "2023-08-10T08:31:03.987601Z"
+    }
+  ],
+  "paging": {
+    "total": 1
+  }
+}
