@@ -38,4 +38,5 @@ jobs:
       - name: Hace el «push»
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.token }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
