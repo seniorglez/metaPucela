@@ -30,7 +30,7 @@ jobs:
 
           curl --silent --header "Authorization: Bearer $CREDENTIALS" \
             "https://api.spatial.io/api/v1/rooms/?queryType=batch&roomIDs=639bc4d83b867100010cf851" \
-          | jq > "responses/$DATE.json"
+          | jq >> "responses/$DATE.json"
 
           #ln -sf "responses/$DATE.json" latest.json
 
