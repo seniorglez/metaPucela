@@ -1,5 +1,7 @@
 import util from 'util'
 
+//trigger the cron
+
 export const users = {
   '6242c206d3dd2500016583cb': {
     name: 'Gobierno de Navarra',
