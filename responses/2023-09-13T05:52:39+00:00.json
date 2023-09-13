@@ -1,0 +1,150 @@
+{
+  "rooms": [
+    {
+      "id": "639bc4d83b867100010cf851",
+      "ownerID": "639af2c9c6355b1cd52fe516",
+      "owner": {
+        "userID": "639af2c9c6355b1cd52fe516",
+        "displayName": "Apolostudios / Metaverse Developer"
+      },
+      "name": "Plaza Mayor Valladolid (Spain)-  Ferias y Fiestas Virgen San Lorenzo 2023",
+      "slug": "Plaza-Mayor-Valladolid-Spain-Ferias-y-Fiestas-Virgen-San-Lorenzo-2023",
+      "description": "Vive en directo el pregón, el record guiness y el espectaculo piromusical de las ferias y fiestas de Valladolid.",
+      "tags": [
+        "valladolid",
+        "trendy",
+        "party",
+        "turism",
+        "spain"
+      ],
+      "orgOwner": {
+        "id": "",
+        "name": "",
+        "subscription": {
+          "subscriptionType": "",
+          "subscriptionSource": "",
+          "isActive": false
+        }
+      },
+      "organizations": null,
+      "timeLastJoined": "0001-01-01T00:00:00Z",
+      "thumbnails": [],
+      "activeParticipants": [
+        {
+          "id": "6500245fb8d4667501accd45",
+          "displayName": "AGN",
+          "profilePicURL": "",
+          "avatarData": {
+            "avatarUserID": "",
+            "avatarID": "",
+            "avatarBody": "https://dd2cgqlmnwvp5.cloudfront.net/authless-rpm-avatars/female-white-tanktop-638905e5a3a085619eaf9bf9/638905e5a3a085619eaf9bf9.glb",
+            "filename": "",
+            "skinColorOverride": "",
+            "shirtColorOverride": "",
+            "readyPlayerMeID": "",
+            "readyPlayerMeAvatarID": "",
+            "readyPlayerMeThumbnails": {
+              "upperBody": "",
+              "lowerBody": ""
+            },
+            "readyPlayerMeUrl": "",
+            "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+            "readyPlayerMeUrlCrunched": "",
+            "readyPlayerMeUrlCrunchedBrotli": "",
+            "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+            "activeAvatarStyle": "READY_PLAYER_ME"
+          },
+          "appearanceCustomization": {
+            "profileColor": "tan"
+          },
+          "clientPlatforms": [
+            "iOS"
+          ],
+          "permissions": []
+        },
+        {
+          "id": "65014d110a066f8128401d3c",
+          "displayName": "nawinmount",
+          "profilePicURL": "",
+          "avatarData": {
+            "avatarUserID": "",
+            "avatarID": "",
+            "avatarBody": "",
+            "filename": "",
+            "skinColorOverride": "",
+            "shirtColorOverride": "",
+            "readyPlayerMeID": "",
+            "readyPlayerMeAvatarID": "",
+            "readyPlayerMeThumbnails": {
+              "upperBody": "",
+              "lowerBody": ""
+            },
+            "readyPlayerMeUrl": "",
+            "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+            "readyPlayerMeUrlCrunched": "",
+            "readyPlayerMeUrlCrunchedBrotli": "",
+            "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+            "activeAvatarStyle": "REALISTIC"
+          },
+          "appearanceCustomization": {
+            "profileColor": "green"
+          },
+          "clientPlatforms": [
+            "iOS"
+          ],
+          "permissions": []
+        }
+      ],
+      "polymerVersion": 19,
+      "roomThumbnails": {
+        "customGetUrl": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/customThumbnail/r/06d0c0b58b95376d866922b41ca0adfeb6e3630b9ea5e221565701624abd1421/1694584347",
+        "transientGetUrl": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/transientStateThumbnail/r/e1d393ecc950dd5061b563a1c40b612b099f7125074dad4e790f6f356a90b13d/1694584347",
+        "persistentGetUrl": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/persistentStateThumbnail/r/b413a6d0e5b1e59556d79582b0cda93358f6a69e726290911227086b52885e83/1694584347",
+        "cubemapGetUrl": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/cubemap/r/7bd3758403db79b555a7f76036326883a71d76c86c2075374b223d5cdb20e21d/1694584347",
+        "expiresAt": 1694598759
+      },
+      "thumbnail": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/customThumbnail/r/06d0c0b58b95376d866922b41ca0adfeb6e3630b9ea5e221565701624abd1421/1694584347",
+      "cubeMap": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/cubemap/r/7bd3758403db79b555a7f76036326883a71d76c86c2075374b223d5cdb20e21d/1694584347",
+      "starred": true,
+      "sandbox": false,
+      "shareID": "6871682445212284257",
+      "code": "",
+      "shareSetting": "ORG",
+      "publicLink": true,
+      "roomAdmins": [
+        "62cfe0d21111938e99737620",
+        "62cffe2bb921b8527a6a4007"
+      ],
+      "restrictedPermissions": [
+        "RESTRICT_OTHERS_VIEW_ONLY"
+      ],
+      "directlyInvitedGuests": {},
+      "lobbyType": "",
+      "published": true,
+      "defaultRoomContent": null,
+      "accessible": true,
+      "createdAt": "2022-12-16T01:07:36.975Z",
+      "tileSize": "large",
+      "isNFTSpace": false,
+      "isCreatorToolkitSpace": false,
+      "packageSKU": "",
+      "worldID": "",
+      "directlyInvitedGuestsArray": [],
+      "active": true,
+      "users": [
+        "6500245fb8d4667501accd45",
+        "65014d110a066f8128401d3c"
+      ],
+      "activeParticipantCount": 2,
+      "likes": 274,
+      "views": 5250,
+      "isInstanceable": false,
+      "likedSpace": false,
+      "promoted": false,
+      "lastPromoted": "2023-09-12T11:29:04.355614Z"
+    }
+  ],
+  "paging": {
+    "total": 1
+  }
+}
