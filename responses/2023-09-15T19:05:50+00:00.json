@@ -1,0 +1,190 @@
+{
+  "rooms": [
+    {
+      "id": "639bc4d83b867100010cf851",
+      "ownerID": "639af2c9c6355b1cd52fe516",
+      "owner": {
+        "userID": "639af2c9c6355b1cd52fe516",
+        "displayName": "Apolostudios / Metaverse Developer"
+      },
+      "name": "Plaza Mayor Valladolid (Spain)-  Ferias y Fiestas Virgen San Lorenzo 2023",
+      "slug": "Plaza-Mayor-Valladolid-Spain-Ferias-y-Fiestas-Virgen-San-Lorenzo-2023",
+      "description": "Vive en directo el pregón, el record guiness y el espectaculo piromusical de las ferias y fiestas de Valladolid.",
+      "tags": [
+        "valladolid",
+        "trendy",
+        "party",
+        "turism",
+        "spain"
+      ],
+      "orgOwner": {
+        "id": "",
+        "name": "",
+        "subscription": {
+          "subscriptionType": "",
+          "subscriptionSource": "",
+          "isActive": false
+        }
+      },
+      "organizations": null,
+      "timeLastJoined": "0001-01-01T00:00:00Z",
+      "thumbnails": [],
+      "activeParticipants": [
+        {
+          "id": "639af2c9c6355b1cd52fe516",
+          "displayName": "Apolostudios / Metaverse Developer",
+          "profilePicURL": "https://renderapi.s3.amazonaws.com/Cb4pxJNou.png",
+          "avatarData": {
+            "avatarUserID": "",
+            "avatarID": "",
+            "avatarBody": "spatialcontent://item:j4fZqoBFVb-KsIEZhE3dm",
+            "filename": "",
+            "skinColorOverride": "",
+            "shirtColorOverride": "",
+            "readyPlayerMeID": "",
+            "readyPlayerMeAvatarID": "",
+            "readyPlayerMeThumbnails": {
+              "upperBody": "https://renderapi.s3.amazonaws.com/Cb4pxJNou.png",
+              "lowerBody": ""
+            },
+            "readyPlayerMeUrl": "https://models.readyplayer.me/639af4d00eab23107f35642d.glb?updatedAt=1686746863084",
+            "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+            "readyPlayerMeUrlCrunched": "",
+            "readyPlayerMeUrlCrunchedBrotli": "",
+            "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+            "activeAvatarStyle": "CREATOR_TOOLKIT"
+          },
+          "appearanceCustomization": {
+            "profileColor": "tan"
+          },
+          "clientPlatforms": [
+            "Web",
+            "Web",
+            "Web",
+            "Web",
+            "Web",
+            "Web",
+            "Web",
+            "Web"
+          ],
+          "permissions": []
+        },
+        {
+          "id": "6392bc389cc616b484caa34e",
+          "displayName": "Veronica",
+          "profilePicURL": "https://renderapi.s3.amazonaws.com/JPVsNfST3.png",
+          "avatarData": {
+            "avatarUserID": "",
+            "avatarID": "",
+            "avatarBody": "https://dd2cgqlmnwvp5.cloudfront.net/avatar_generic_bodies/rpm_male_formal/model.glb",
+            "filename": "",
+            "skinColorOverride": "",
+            "shirtColorOverride": "",
+            "readyPlayerMeID": "",
+            "readyPlayerMeAvatarID": "",
+            "readyPlayerMeThumbnails": {
+              "upperBody": "https://renderapi.s3.amazonaws.com/JPVsNfST3.png",
+              "lowerBody": ""
+            },
+            "readyPlayerMeUrl": "https://models.readyplayer.me/64fe31150a22f8785aea9d5b.glb?updatedAt=1694804674414",
+            "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+            "readyPlayerMeUrlCrunched": "",
+            "readyPlayerMeUrlCrunchedBrotli": "",
+            "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+            "activeAvatarStyle": "READY_PLAYER_ME"
+          },
+          "appearanceCustomization": {
+            "profileColor": "green"
+          },
+          "clientPlatforms": [
+            "Web"
+          ],
+          "permissions": []
+        },
+        {
+          "id": "63cc75b97caee3124aca96f4",
+          "displayName": "Oliver Ronan",
+          "profilePicURL": "https://renderapi.s3.amazonaws.com/OCdb3Ito0.png",
+          "avatarData": {
+            "avatarUserID": "",
+            "avatarID": "",
+            "avatarBody": "https://dd2cgqlmnwvp5.cloudfront.net/avatar_generic_bodies/rpm_male_hoody/model.glb",
+            "filename": "",
+            "skinColorOverride": "ecc7ae",
+            "shirtColorOverride": "ffccf4",
+            "readyPlayerMeID": "",
+            "readyPlayerMeAvatarID": "",
+            "readyPlayerMeThumbnails": {
+              "upperBody": "https://renderapi.s3.amazonaws.com/OCdb3Ito0.png",
+              "lowerBody": ""
+            },
+            "readyPlayerMeUrl": "https://models.readyplayer.me/64ff69501726485e4bf34890.glb?updatedAt=1694561974081",
+            "ReadyPlayerMeUrlLastUpdated": "0001-01-01T00:00:00Z",
+            "readyPlayerMeUrlCrunched": "",
+            "readyPlayerMeUrlCrunchedBrotli": "",
+            "ReadyPlayerMeUrlCrunchedLastUpdated": "0001-01-01T00:00:00Z",
+            "activeAvatarStyle": "READY_PLAYER_ME"
+          },
+          "appearanceCustomization": {
+            "profileColor": "tan"
+          },
+          "clientPlatforms": [
+            "Web"
+          ],
+          "permissions": []
+        }
+      ],
+      "polymerVersion": 19,
+      "roomThumbnails": {
+        "customGetUrl": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/customThumbnail/r/9845e7ff26b13c5160e128281bf8f85da1d52f109f98a0bfe8e6ec74662d3398/1694804656",
+        "transientGetUrl": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/transientStateThumbnail/r/81f7a8203ad1ecf76d068e6c07d545fb8fc5d2ca96a149148bb415868eb142f0/1694804656",
+        "persistentGetUrl": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/persistentStateThumbnail/r/dd9ebb8f2443f13705f35496fc94e61a364a8bf0b7c2827c12ae80e54d56bebe/1694804656",
+        "cubemapGetUrl": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/cubemap/r/47dac566f23796ee9505fae85f91b84f665453249f4e296d0e10ae544593ddb8/1694804656",
+        "expiresAt": 1694819151
+      },
+      "thumbnail": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/customThumbnail/r/9845e7ff26b13c5160e128281bf8f85da1d52f109f98a0bfe8e6ec74662d3398/1694804656",
+      "cubeMap": "https://cdn.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/cubemap/r/47dac566f23796ee9505fae85f91b84f665453249f4e296d0e10ae544593ddb8/1694804656",
+      "starred": true,
+      "sandbox": false,
+      "shareID": "6871682445212284257",
+      "code": "",
+      "shareSetting": "ORG",
+      "publicLink": true,
+      "roomAdmins": [
+        "62cfe0d21111938e99737620",
+        "62cffe2bb921b8527a6a4007"
+      ],
+      "restrictedPermissions": [
+        "RESTRICT_OTHERS_VIEW_ONLY"
+      ],
+      "directlyInvitedGuests": {},
+      "lobbyType": "",
+      "published": true,
+      "defaultRoomContent": null,
+      "accessible": true,
+      "createdAt": "2022-12-16T01:07:36.975Z",
+      "tileSize": "large",
+      "isNFTSpace": false,
+      "isCreatorToolkitSpace": false,
+      "packageSKU": "",
+      "worldID": "",
+      "directlyInvitedGuestsArray": [],
+      "active": true,
+      "users": [
+        "639af2c9c6355b1cd52fe516",
+        "6392bc389cc616b484caa34e",
+        "63cc75b97caee3124aca96f4"
+      ],
+      "activeParticipantCount": 10,
+      "likes": 289,
+      "views": 5635,
+      "isInstanceable": false,
+      "likedSpace": false,
+      "promoted": true,
+      "lastPromoted": "2023-09-15T14:28:56.887708Z"
+    }
+  ],
+  "paging": {
+    "total": 1
+  }
+}
