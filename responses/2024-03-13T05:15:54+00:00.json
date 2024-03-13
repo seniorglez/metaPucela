@@ -1,0 +1,81 @@
+{
+  "rooms": [
+    {
+      "id": "639bc4d83b867100010cf851",
+      "ownerID": "639af2c9c6355b1cd52fe516",
+      "owner": {
+        "userID": "639af2c9c6355b1cd52fe516",
+        "displayName": "Apolostudios / Metaverse Developer"
+      },
+      "name": "Plaza Mayor Valladolid (Spain)-  Ferias y Fiestas Virgen San Lorenzo 2023",
+      "slug": "Plaza-Mayor-Valladolid-Spain-Ferias-y-Fiestas-Virgen-San-Lorenzo-2023",
+      "description": "Vive en directo el pregón, el record guiness y el espectaculo piromusical de las ferias y fiestas de Valladolid.",
+      "tags": [
+        "valladolid",
+        "trendy",
+        "party",
+        "turism",
+        "spain"
+      ],
+      "orgOwner": {
+        "id": "",
+        "name": "",
+        "subscription": {
+          "subscriptionType": "",
+          "subscriptionSource": "",
+          "isActive": false
+        }
+      },
+      "organizations": null,
+      "timeLastJoined": "0001-01-01T00:00:00Z",
+      "thumbnails": [],
+      "activeParticipants": [],
+      "polymerVersion": 19,
+      "roomThumbnails": {
+        "customGetUrl": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/customThumbnail/r/5308c86a769968e5a2dd0b0914c3e30e2fc30248c7f29ae943b75031954ce87b/1710306075",
+        "transientGetUrl": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/transientStateThumbnail/r/c3381c6331f52afb9233711370b06423edeab1c0c7fa614339a1afbc02188e7e/1710306075",
+        "persistentGetUrl": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/persistentStateThumbnail/r/9528af2588a70b57592c885d587f3e8351877591b29b68249e5c0f91fb489a65/1710306075",
+        "cubemapGetUrl": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/cubemap/r/874d1817299b81cf5ca0e9fa012127fbe92e4c9fcd305a89cfe2bdb1c34f6d87/1710306075",
+        "expiresAt": 1710321354
+      },
+      "thumbnail": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/customThumbnail/r/5308c86a769968e5a2dd0b0914c3e30e2fc30248c7f29ae943b75031954ce87b/1710306075",
+      "cubeMap": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/cubemap/r/874d1817299b81cf5ca0e9fa012127fbe92e4c9fcd305a89cfe2bdb1c34f6d87/1710306075",
+      "starred": true,
+      "sandbox": false,
+      "shareID": "6871682445212284257",
+      "code": "",
+      "shareSetting": "ORG",
+      "publicLink": true,
+      "roomAdmins": [
+        "62cfe0d21111938e99737620",
+        "62cffe2bb921b8527a6a4007"
+      ],
+      "restrictedPermissions": [
+        "RESTRICT_OTHERS_VIEW_ONLY"
+      ],
+      "directlyInvitedGuests": {},
+      "lobbyType": "",
+      "published": true,
+      "defaultRoomContent": null,
+      "accessible": true,
+      "createdAt": "2022-12-16T01:07:36.975Z",
+      "isNFTSpace": false,
+      "isCreatorToolkitSpace": false,
+      "packageSKU": "",
+      "worldID": "",
+      "directlyInvitedGuestsArray": [],
+      "active": false,
+      "users": [],
+      "activeParticipantCount": 0,
+      "likes": 345,
+      "views": 10210,
+      "isInstanceable": false,
+      "likedSpace": false,
+      "promoted": true,
+      "lastPromoted": "2023-10-01T11:27:27.125745Z"
+    }
+  ],
+  "paging": {
+    "total": 1
+  }
+}
