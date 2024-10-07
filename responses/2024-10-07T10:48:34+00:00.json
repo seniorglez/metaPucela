@@ -1,0 +1,83 @@
+{
+  "rooms": [
+    {
+      "id": "639bc4d83b867100010cf851",
+      "ownerID": "639af2c9c6355b1cd52fe516",
+      "owner": {
+        "userID": "639af2c9c6355b1cd52fe516",
+        "displayName": "Apolostudios / Metaverse Developer"
+      },
+      "name": "Valladolid (Spain)",
+      "slug": "Valladolid-Spain",
+      "description": "Vive en directo el pregón, el record guiness y el espectaculo piromusical de las ferias y fiestas de Valladolid.",
+      "tags": [
+        "valladolid",
+        "trendy",
+        "party",
+        "turism",
+        "spain"
+      ],
+      "orgOwner": {
+        "id": "",
+        "name": "",
+        "subscription": {
+          "subscriptionType": "",
+          "subscriptionSource": "",
+          "isActive": false
+        }
+      },
+      "organizations": null,
+      "timeLastJoined": "0001-01-01T00:00:00Z",
+      "thumbnails": [],
+      "activeParticipants": [],
+      "polymerVersion": 19,
+      "roomThumbnails": {
+        "customGetUrl": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/customThumbnail/r/ffd1f10742b616da0a210d876dd15ac419bc2d7b5aa4e3adf94efbabd3b4d1fa/1728294223",
+        "transientGetUrl": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/transientStateThumbnail/r/78c4d0be7536c8c5601d692d255bc1f0b116df64d965abf6cb336391a55c6d47/1728294223",
+        "persistentGetUrl": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/persistentStateThumbnail/r/aeadad4bf7e43520c74731c376cca5cac2498f9aa68568df2fd096e38a6c22b9/1728294223",
+        "cubemapGetUrl": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/cubemap/r/382b69892a4907c58e01e01a9eca2eca5817834c2d53bb595854a972c1a6830f/1728294223",
+        "expiresAt": 1728312515
+      },
+      "thumbnail": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/customThumbnail/r/ffd1f10742b616da0a210d876dd15ac419bc2d7b5aa4e3adf94efbabd3b4d1fa/1728294223",
+      "cubeMap": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/cubemap/r/382b69892a4907c58e01e01a9eca2eca5817834c2d53bb595854a972c1a6830f/1728294223",
+      "sandbox": false,
+      "shareID": "6871682445212284257",
+      "code": "",
+      "shareSetting": "ORG",
+      "publicLink": true,
+      "roomAdmins": [
+        "62cfe0d21111938e99737620",
+        "62cffe2bb921b8527a6a4007"
+      ],
+      "restrictedPermissions": [
+        "RESTRICT_OTHERS_VIEW_ONLY"
+      ],
+      "directlyInvitedGuests": {},
+      "lobbyType": "",
+      "published": true,
+      "defaultRoomContent": null,
+      "accessible": true,
+      "createdAt": "2022-12-16T01:07:36.975Z",
+      "isNFTSpace": false,
+      "isCreatorToolkitSpace": false,
+      "packageSKU": "",
+      "worldID": "",
+      "directlyInvitedGuestsArray": [],
+      "active": false,
+      "users": [],
+      "activeParticipantCount": 0,
+      "likes": 352,
+      "views": 10450,
+      "isInstanceable": false,
+      "likedSpace": false,
+      "promoted": true,
+      "lastPromoted": "2023-10-01T11:27:27.125745Z",
+      "fullScreenModeEnabled": false,
+      "crossInstanceStreamingEnabled": false,
+      "accessRestricted": false
+    }
+  ],
+  "paging": {
+    "total": 1
+  }
+}
