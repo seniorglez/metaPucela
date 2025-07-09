@@ -1,0 +1,83 @@
+{
+  "rooms": [
+    {
+      "id": "639bc4d83b867100010cf851",
+      "ownerID": "639af2c9c6355b1cd52fe516",
+      "owner": {
+        "userID": "639af2c9c6355b1cd52fe516",
+        "displayName": "Apolostudios / Metaverse Developer"
+      },
+      "name": "Valladolid Now",
+      "slug": "Valladolid-Now",
+      "description": "Valladolid Now es la Oficina Municipal de proyectos y atracción de inversiones creada por el Ayuntamiento de Valladolid a través de su agencia de innovación y desarrollo económico IdeVa, y con la colaboración de CEOE de Valladolid y la Cámara de Comercio de Valladolid.\r\n\r\nSu objetivo es atraer talento, inversiones, promover el crecimiento económico y facilitar la implantación de nuevas empresas en Valladolid así como ayudar a generar nuevas oportunidades  la empresas ya implantadas en la ciudad.",
+      "tags": [
+        "trendy",
+        "party",
+        "turism",
+        "spain",
+        "valladolid"
+      ],
+      "orgOwner": {
+        "id": "",
+        "name": "",
+        "subscription": {
+          "subscriptionType": "",
+          "subscriptionSource": "",
+          "isActive": false
+        }
+      },
+      "organizations": null,
+      "timeLastJoined": "0001-01-01T00:00:00Z",
+      "thumbnails": [],
+      "activeParticipants": [],
+      "polymerVersion": 19,
+      "roomThumbnails": {
+        "customGetUrl": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/customThumbnail/r/9219fa4364c3bef4796442055e2b841a4dca43e110d1f3416d033909a259854a/1751876108",
+        "transientGetUrl": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/transientStateThumbnail/r/5dcdb1db3969aac896c467bc46025fbee7956ca22becadaa3746acf950751a1b/1751876108",
+        "persistentGetUrl": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/persistentStateThumbnail/r/8c1a57e21415054cef2900ac1bb9c6ab2759122560fcad9634aa91a805ff2084/1751876108",
+        "cubemapGetUrl": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/cubemap/r/856b64c05f9de2719d98a1c441e60db3341c877b3235b5784c278e1cf2140a33/1751876108",
+        "expiresAt": 1752118641
+      },
+      "thumbnail": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/customThumbnail/r/9219fa4364c3bef4796442055e2b841a4dca43e110d1f3416d033909a259854a/1751876108",
+      "cubeMap": "https://cdn2.spatial.io/assets/v1/thumbnails/639bc4d83b867100010cf851/cubemap/r/856b64c05f9de2719d98a1c441e60db3341c877b3235b5784c278e1cf2140a33/1751876108",
+      "sandbox": false,
+      "shareID": "6871682445212284257",
+      "code": "",
+      "shareSetting": "ORG",
+      "publicLink": true,
+      "roomAdmins": [
+        "62cfe0d21111938e99737620",
+        "62cffe2bb921b8527a6a4007"
+      ],
+      "restrictedPermissions": [
+        "RESTRICT_OTHERS_VIEW_ONLY"
+      ],
+      "directlyInvitedGuests": {},
+      "lobbyType": "",
+      "published": true,
+      "defaultRoomContent": null,
+      "accessible": true,
+      "createdAt": "2022-12-16T01:07:36.975Z",
+      "isNFTSpace": false,
+      "isCreatorToolkitSpace": false,
+      "packageSKU": "",
+      "worldID": "",
+      "directlyInvitedGuestsArray": [],
+      "active": false,
+      "users": [],
+      "activeParticipantCount": 0,
+      "likes": 359,
+      "views": 11303,
+      "isInstanceable": false,
+      "likedSpace": false,
+      "promoted": true,
+      "lastPromoted": "2023-10-01T11:27:27.125745Z",
+      "fullScreenModeEnabled": false,
+      "crossInstanceStreamingEnabled": false,
+      "accessRestricted": false
+    }
+  ],
+  "paging": {
+    "total": 1
+  }
+}
